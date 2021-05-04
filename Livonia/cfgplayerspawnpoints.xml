@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playerspawnpoints>
+	<fresh>
+		<spawn_params>
+			<min_dist_infected>30.0</min_dist_infected>
+			<max_dist_infected>70.0</max_dist_infected>
+			<min_dist_player>25.0</min_dist_player>
+			<max_dist_player>70.0</max_dist_player>
+			<min_dist_static>0.5</min_dist_static>
+			<max_dist_static>2.0</max_dist_static>
+		</spawn_params>
+
+		<generator_params>
+			<grid_density>8</grid_density>
+			<grid_width>40.0</grid_width>
+			<grid_height>40.0</grid_height>
+			<min_dist_static>0.5</min_dist_static>
+			<max_dist_static>2.0</max_dist_static>
+			<min_steepness>-45</min_steepness>
+			<max_steepness>45</max_steepness>
+		</generator_params>
+
+		<generator_posbubbles>
+			<pos x="6202.31" z="4070.28" /> <!--Nadbor1-->
+			<pos x="5968.67" z="4051.52" /> <!--Nadbor2-->
+			<pos x="1822.99" z="7339.63" /> <!--Topolin-->
+			<pos x="1510.43" z="7388.85" /> <!--Topolin2-->
+			<pos x="5052.10" z="9956.51" /> <!--Glinska-->
+			<pos x="5166.57" z="10415.97" /> <!--Glinska2-->
+			<pos x="6244.50" z="10179.21" /> <!--Sobo-->
+			<pos x="6405.08" z="11044.21" /> <!--Brena-->
+			<pos x="6591.83" z="11287.61" /> <!--Brena2-->
+			<pos x="8529.69" z="12024.86" /> <!--Kolembrody-->
+			<pos x="9393.52" z="11020.77" /> <!--Tarnow-->
+			<pos x="9255.60" z="10756.66" /> <!--Tarnow2-->
+			<pos x="10533.57" z="11115.32" /> <!--Grabin-->
+			<pos x="10869.57" z="11070.00" /> <!--Grabin2-->
+			<pos x="11198.53" z="9540.81" /> <!--Sitnik-->
+			<pos x="11660.73" z="9628.33" /> <!--Sitnik2-->
+			<pos x="7817.06" z="10047.15" /> <!--CrappyAirfield-->
+			<pos x="4362.52" z="10465.59" /> <!--Airfield-->
+			<pos x="3828.83" z="10310.87" /> <!--Airfield-->
+			<pos x="8859.04" z="6720.76" /> <!--Lembork-->
+			<pos x="9029.39" z="6589.49" /> <!--LemborkMB-->
+			<pos x="5662.36" z="3806.56" /> <!--NadborMB-->
+			<pos x="9673.65" z="8506.25" /> <!--Borek-->
+			<pos x="9854.15" z="8473.82" /> <!--Borek2-->
+		</generator_posbubbles>
+	</fresh>
+</playerspawnpoints>

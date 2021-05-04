@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+	<message>
+        <deadline>150</deadline>
+        <shutdown>1</shutdown>
+        <text>Aggro Livonia will restart #tmin minutes. Cars despawn on restarts.</text>
+    </message>
+    <message>
+        <repeat>15</repeat>
+        <text>Restarts are every 2.5hrs. Killfeed in discord.gg/N2mbTvgquj</text>
+    </message>
+    <message>
+        <repeat>20</repeat>
+        <text>Nights are 45mins, Days are 3hours. Killfeed in discord.gg/N2mbTvgquj</text>
+    </message>
+</messages>
